@@ -1,5 +1,5 @@
 ﻿# PortScanner
- Port Scanner is a simple Python tool for scanning open ports on a given IP address or hostname.
+  A port scanner that checks for open ports on a given IP address or hostname. 
 
 ## Features
 - Scans ports 1 to 99
