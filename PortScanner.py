@@ -1,7 +1,7 @@
 import pyfiglet #(A library that lets you create text banners in ASCII art. )
 import sys #(rovides access to command-line arguments and system functions.)
 import socket #(Used for network connections, like creating a port scanner.)
-from datetime import datetime #(Used for network connections, like creating a port scanner.)
+from datetime import datetime 
    
 ascii_banner = pyfiglet.figlet_format("PORT SCANNER") 
 print(ascii_banner) 
