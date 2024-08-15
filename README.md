@@ -9,7 +9,7 @@
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://https://github.com/OnsElfekih/PortScanner
+   git clone https://github.com/OnsElfekih/PortScanner.git
 2. Install the required dependencies:
    ```bash
    pip install pyfiglet
