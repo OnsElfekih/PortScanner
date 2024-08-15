@@ -14,7 +14,7 @@
    ```bash
    pip install pyfiglet
 
-##Usage
+## Usage
 3.Run the script with the following command:
    ```bash
 python PortScanner.py <target_ip_or_hostname>
